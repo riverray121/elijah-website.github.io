@@ -74,5 +74,3 @@ function updateASCIIArt(container, frames) {
 
   
   updateASCIIArt(asciiContainer1, frames1); // Start the first animation
-//   updateASCIIArt(asciiContainer2, frames2); // Start the second animation
-  
